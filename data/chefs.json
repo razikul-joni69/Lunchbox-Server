@@ -20,7 +20,7 @@
                     "10 shallots"
                 ],
                 "cooking_method": "In a blender, blend shallots, garlic, fresh ginger, large red chilli and turmeric root until smooth. If mixture is too dry, you can use water to help you achieve a smooth consistency. In a pan, fry blended ingredients on a medium-low heat for 5 minutes until fragrant, then add in lemongrass and ½ cup water. In a pan, fry blended ingredients on a medium-low heat for 5 minutes until fragrant, then add in lemongrass and ½ cup water. Add seafood to sauce and let it sit for 1 minute, close the lid and turn the fire off to let the rest of the seafood steam in the sauce for at least 5 minutes. If you are not using the seafood immediately after cleaning, store in fridge to keep fresh. Cook pasta according to packet instructions. Once cooked, add in 2 tbsp vegetable oil so that the pasta won’t stick together. | Long and thin pasta types, like spaghetti and linguine, are typically paired with light seafood sauces, cream or oil based sauces. Long and wide pastas, like tagliatelle, pappardelle and fettuccine are typically paired with rich, meaty sauces. Twist and tube-shaped pastas, like penne and fusilli, are typically paired with pesto and bolognes. Place pasta in a bowl, topped with blanched bean sprouts, ginger flower before pouring the hot creamy sauce over the pasta. Garnish with julienned cucumbers, chopped spring onions, crispy salted fish and lime wedge",
-                "rating": 4.1
+                "rating": 4.9
             },
             {
                 "id": 2,
@@ -36,7 +36,7 @@
                     "10 shallots"
                 ],
                 "cooking_method": "In a blender, blend shallots, garlic, fresh ginger, large red chilli and turmeric root until smooth. If mixture is too dry, you can use water to help you achieve a smooth consistency. In a pan, fry blended ingredients on a medium-low heat for 5 minutes until fragrant, then add in lemongrass and ½ cup water. In a pan, fry blended ingredients on a medium-low heat for 5 minutes until fragrant, then add in lemongrass and ½ cup water. Add seafood to sauce and let it sit for 1 minute, close the lid and turn the fire off to let the rest of the seafood steam in the sauce for at least 5 minutes. If you are not using the seafood immediately after cleaning, store in fridge to keep fresh. Cook pasta according to packet instructions. Once cooked, add in 2 tbsp vegetable oil so that the pasta won’t stick together. | Long and thin pasta types, like spaghetti and linguine, are typically paired with light seafood sauces, cream or oil based sauces. Long and wide pastas, like tagliatelle, pappardelle and fettuccine are typically paired with rich, meaty sauces. Twist and tube-shaped pastas, like penne and fusilli, are typically paired with pesto and bolognes. Place pasta in a bowl, topped with blanched bean sprouts, ginger flower before pouring the hot creamy sauce over the pasta. Garnish with julienned cucumbers, chopped spring onions, crispy salted fish and lime wedge",
-                "rating": 4.1
+                "rating": 4.6
             },
             {
                 "id": 3,
@@ -53,14 +53,46 @@
                 ],
                 "cooking_method": "In a blender, blend shallots, garlic, fresh ginger, large red chilli and turmeric root until smooth. If mixture is too dry, you can use water to help you achieve a smooth consistency. In a pan, fry blended ingredients on a medium-low heat for 5 minutes until fragrant, then add in lemongrass and ½ cup water. In a pan, fry blended ingredients on a medium-low heat for 5 minutes until fragrant, then add in lemongrass and ½ cup water. Add seafood to sauce and let it sit for 1 minute, close the lid and turn the fire off to let the rest of the seafood steam in the sauce for at least 5 minutes. If you are not using the seafood immediately after cleaning, store in fridge to keep fresh. Cook pasta according to packet instructions. Once cooked, add in 2 tbsp vegetable oil so that the pasta won’t stick together. | Long and thin pasta types, like spaghetti and linguine, are typically paired with light seafood sauces, cream or oil based sauces. Long and wide pastas, like tagliatelle, pappardelle and fettuccine are typically paired with rich, meaty sauces. Twist and tube-shaped pastas, like penne and fusilli, are typically paired with pesto and bolognes. Place pasta in a bowl, topped with blanched bean sprouts, ginger flower before pouring the hot creamy sauce over the pasta. Garnish with julienned cucumbers, chopped spring onions, crispy salted fish and lime wedge",
                 "rating": 4.1
+            },
+            {
+                "id": 4,
+                "recipe_name": "Louisa",
+                "img": "https://asianfoodnetwork.com/content/dam/afn/global/en/recipes/laksa-seafood-pasta/AFN_laksa_seafood_pasta_main_image.jpg.transform/desktop-img/img.jpg",
+                "ingredients": [
+                    "Laksa Seafood Pasta",
+                    "80 g mussels",
+                    "100 g prawns ",
+                    "100 g scallops ",
+                    "50 g salted fish",
+                    "1 cup coconut milk",
+                    "10 shallots"
+                ],
+                "cooking_method": "In a blender, blend shallots, garlic, fresh ginger, large red chilli and turmeric root until smooth. If mixture is too dry, you can use water to help you achieve a smooth consistency. In a pan, fry blended ingredients on a medium-low heat for 5 minutes until fragrant, then add in lemongrass and ½ cup water. In a pan, fry blended ingredients on a medium-low heat for 5 minutes until fragrant, then add in lemongrass and ½ cup water. Add seafood to sauce and let it sit for 1 minute, close the lid and turn the fire off to let the rest of the seafood steam in the sauce for at least 5 minutes. If you are not using the seafood immediately after cleaning, store in fridge to keep fresh. Cook pasta according to packet instructions. Once cooked, add in 2 tbsp vegetable oil so that the pasta won’t stick together. | Long and thin pasta types, like spaghetti and linguine, are typically paired with light seafood sauces, cream or oil based sauces. Long and wide pastas, like tagliatelle, pappardelle and fettuccine are typically paired with rich, meaty sauces. Twist and tube-shaped pastas, like penne and fusilli, are typically paired with pesto and bolognes. Place pasta in a bowl, topped with blanched bean sprouts, ginger flower before pouring the hot creamy sauce over the pasta. Garnish with julienned cucumbers, chopped spring onions, crispy salted fish and lime wedge",
+                "rating": 4.5
+            },
+            {
+                "id": 5,
+                "recipe_name": "Louisa",
+                "img": "https://asianfoodnetwork.com/content/dam/afn/global/en/recipes/laksa-seafood-pasta/AFN_laksa_seafood_pasta_main_image.jpg.transform/desktop-img/img.jpg",
+                "ingredients": [
+                    "Laksa Seafood Pasta",
+                    "80 g mussels",
+                    "100 g prawns ",
+                    "100 g scallops ",
+                    "50 g salted fish",
+                    "1 cup coconut milk",
+                    "10 shallots"
+                ],
+                "cooking_method": "In a blender, blend shallots, garlic, fresh ginger, large red chilli and turmeric root until smooth. If mixture is too dry, you can use water to help you achieve a smooth consistency. In a pan, fry blended ingredients on a medium-low heat for 5 minutes until fragrant, then add in lemongrass and ½ cup water. In a pan, fry blended ingredients on a medium-low heat for 5 minutes until fragrant, then add in lemongrass and ½ cup water. Add seafood to sauce and let it sit for 1 minute, close the lid and turn the fire off to let the rest of the seafood steam in the sauce for at least 5 minutes. If you are not using the seafood immediately after cleaning, store in fridge to keep fresh. Cook pasta according to packet instructions. Once cooked, add in 2 tbsp vegetable oil so that the pasta won’t stick together. | Long and thin pasta types, like spaghetti and linguine, are typically paired with light seafood sauces, cream or oil based sauces. Long and wide pastas, like tagliatelle, pappardelle and fettuccine are typically paired with rich, meaty sauces. Twist and tube-shaped pastas, like penne and fusilli, are typically paired with pesto and bolognes. Place pasta in a bowl, topped with blanched bean sprouts, ginger flower before pouring the hot creamy sauce over the pasta. Garnish with julienned cucumbers, chopped spring onions, crispy salted fish and lime wedge",
+                "rating": 3.5
             }
         ],
         "ingredients": "Veal - Shank, Pieces",
         "description": "Laceration of unspecified muscle, fascia and tendon at shoulder and upper arm level, unspecified arm, subsequent encounter",
         "cooking_method": "Drug induced acute dystonia",
         "banner": "https://images.unsplash.com/photo-1507048331197-7d4ac70811cf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
-        "likes": 1,
-        "rating": 1
+        "likes": 2,
+        "rating": 4.6
     },
     {
         "id": "01H18MQCF556XVVTJNZ29ZNDXS",
